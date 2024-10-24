@@ -26,4 +26,5 @@ Regulation: The regulatory landscape for cryptocurrencies varies widely by count
 <br>
 
 Security Risks: While the blockchain itself is generally secure, cryptocurrency exchanges and wallets can be vulnerable to hacks and fraud, emphasizing the importance of using secure practices.
+<br>
 author - theram
